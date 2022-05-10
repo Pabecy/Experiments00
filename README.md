@@ -6,6 +6,12 @@
 <h6> Integrantes </h6>
 </p>
 
+<h2> Avances clase 10/05/2022 </h2>
+
+<p>Tipeo y modificación del codigo ejemplo hecho por montoyamoraga ej_01_arduino_envia_pulsador_potenciometro </br>
+   basado en Examples/04. Comunication/Virtualcolormixer.
+</p> 
+
 ### Referentes ###
 - https://glitch.com/
 - https://getmimo.com/
