@@ -13,6 +13,6 @@
 </p> 
 
 ### Referentes ###
-- https://glitch.com/
-- https://getmimo.com/
+- [Glitch](https://glitch.com/)
+- [M1m0 app](https://getmimo.com/)
 - 
