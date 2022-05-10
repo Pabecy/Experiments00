@@ -6,3 +6,7 @@
 <h6> Integrantes </h6>
 </p>
 
+### Referentes ###
+- https://glitch.com/
+- https://getmimo.com/
+- 
