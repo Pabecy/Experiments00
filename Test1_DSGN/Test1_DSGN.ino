@@ -11,14 +11,14 @@ const int pinPulsador1 = 6;
 const int pinPulsador2 = 7;
 const int pinPulsador3 = 8;
 
+// variable para pin potenciometro
+const int pinPotenciometro1 = A0;
+const int pinPotenciometro2 = A5;
+
 // variable para almacenar lectura digital
 int valorPulsador1 = 0;
 int valorPulsador2 = 0;
 int valorPulsador3 = 0;
-
-// variable para pin potenciometro
-const int pinPotenciometro1 = A0;
-const int pinPotenciometro2 = A5;
 
 // variable para almacenar lectura analoga
 int valorPotenciometro1 = 0;
